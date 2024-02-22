@@ -1,0 +1,1 @@
+Control & O::Run, PowerShell Set-AudioDevice -RecordingVolume 100
